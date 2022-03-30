@@ -1,2 +1,2 @@
-# python_textanalytics
-Pythonではじめるテキストアナリティクス写経
+# NLP
+自然言語処理関連のプロジェクト
